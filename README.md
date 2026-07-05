@@ -109,7 +109,6 @@ COVID-19-Data-Analysis/
 ├── worldometer_coronavirus_summary_data.csv
 ├── ExploratoryDataAnalysis.ipynb
 ├── README.md
-└── images/        (Optional: Save visualization screenshots here)
 ```
 
 ---
@@ -167,6 +166,6 @@ This project is created for educational and learning purposes.
 
 ## Author
 
-**Your Name**
+**Kushal L K**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Kushal0410
